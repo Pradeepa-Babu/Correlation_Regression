@@ -72,5 +72,5 @@ plt.show()
 
 # Output 
 
-C:\Users\perar\OneDrive\Desktop\pradeepa\Screenshot 2026-03-15 120838.png
+Screenshot 2026-03-15 120838.png
 # Result
