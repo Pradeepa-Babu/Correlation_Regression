@@ -74,4 +74,4 @@ plt.show()
 
 ![alt text](<Screenshot 2026-03-15 120905.png>)
 
-# Result
+# Result.
