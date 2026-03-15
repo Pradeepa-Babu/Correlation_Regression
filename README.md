@@ -72,7 +72,6 @@ plt.show()
 
 # Output.
 
-![OUTPUT OF THE PROGRAN](<Screenshot 2026-03-15 120838.png>)
-![alt text](<Screenshot 2026-03-15 120838-1.png>)
+![OUTOUT OF THE PROGRAM](<Screenshot 2026-03-15 120838-3.png>)
 
 # Result.
