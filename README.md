@@ -72,6 +72,5 @@ plt.show()
 
 # Output 
 
-![Output](output.png)
-
+C:\Users\perar\OneDrive\Desktop\pradeepa\Screenshot 2026-03-15 120838.png
 # Result
