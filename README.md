@@ -1,5 +1,6 @@
 # Correlation and regression for data analysis
-# Aim : 
+# Aim :
+#### DATE : 10/02/2026
 
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
@@ -33,6 +34,10 @@ byx
 Y= byx(X-X) +Ī
 6. Plot the given data and the Regression line in a graph.
 # Program :
+
+## NAME : PRADEEPA B
+
+## REG NO : 212225040308
 ```
 import numpy as np
 import math
@@ -74,3 +79,6 @@ plt.show()
 
 ![alt text](<Screenshot 2026-03-15 120838-2.png>)
 # Result.
+
+The Correlation and regression for data analysis of objects from feeder using probability 
+distribution are calculated.
