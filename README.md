@@ -72,6 +72,7 @@ plt.show()
 
 # Output 
 
+![OUTPUT OF THE PROGRAN](<Screenshot 2026-03-15 120838.png>)
 
 
 # Result
